@@ -1,6 +1,6 @@
 # Holistic Edge Workspace Skills
 
-This directory contains all 15 custom workspace skills for the Holistic Edge workspace.
+This directory contains all 26 custom workspace skills for the Holistic Edge workspace.
 Import any skill into Lovable via: Settings → Skills → Add → Write manually.
 
 ## Skill Index
@@ -22,6 +22,17 @@ Import any skill into Lovable via: Settings → Skills → Add → Write manuall
 | 13 | `clean-spaghetti-code` | Refactoring large or messy files |
 | 14 | `ai-discoverability` | Making any project findable by AI search |
 | 15 | `post-generation-security-audit` | After any new feature or table is generated |
+| 16 | `agentic-loop-scaffold` | Building any autonomous loop / agent runtime |
+| 17 | `edge-function-agent` | Edge function that acts as an autonomous agent |
+| 18 | `cron-kill-switch` | Adding scheduled jobs that need a safe stop |
+| 19 | `approval-gate` | Human-in-the-loop checkpoints for agent actions |
+| 20 | `brain-memory-layer` | Long-term memory / RAG layer for agents |
+| 21 | `signal-ingestor` | External signals feeding the Brain |
+| 22 | `monitor-agent` | Always-on observer / drift detector |
+| 23 | `self-healing-cron` | Resilient scheduled jobs that auto-recover |
+| 24 | `workspace-rls-scaffold` | Multi-workspace RLS setup |
+| 25 | `shared-brain-mcp` | Exposing the Brain to external agents via MCP + webhooks |
+| 26 | `mtp-agent-constitution` | Constitutional MTP + boundary conditions for any agentic project |
 
 ## How to Import
 1. Go to lovable.dev → Settings → Skills → Add → Write manually
